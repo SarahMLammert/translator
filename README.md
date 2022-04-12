@@ -1,0 +1,2 @@
+# translator
+ Translates English text
